@@ -8,5 +8,14 @@ ok i didnt like this part so, i just delete it
 
 let have some conflict
 
+<<<<<<< Updated upstream
 ljghgjgvjhv,jh
 22
+=======
+
+22
+
+klblhjvug
+
+.kbjhvhg
+>>>>>>> Stashed changes
